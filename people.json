@@ -1,149 +1,143 @@
 {
-    "people": [
-      {
-        "name": "Jean",
-        "role": "founder",
-        "team": null
-      },
-      {
-        "name": "Francescu",
-        "role": "founder",
-        "team": null
-      },
-      {
-        "name": "Anthony",
-        "role": "founder",
-        "team": null
-      },
-      {
-        "name": "Pierre-Elie",
-        "role": "founder",
-        "team": null
-      },
-      {
-        "name": "Jérémie",
-        "role": "founder",
-        "team": null
-      },
-      {
-        "name": "Sonasi",
-        "role": "founder",
-        "team": null
-      },
-      {
-        "name": "Filippo",
-        "role": "founder",
-        "team": null
-      },
-      {
-        "name": "Anastasiia",
-        "role": "founder",
-        "team": null
-      },
-      {
-        "name": "Thomas",
-        "role": "founder",
-        "team": null
-      },
-      {
-        "name": "Ludwig",
-        "role": "founder",
-        "team": null
-      },
-      {
-        "name": "Nerea",
-        "role": "founder",
-        "team": null
-      },
-      {
-        "name": "Satyan",
-        "role": "founder",
-        "team": null
-      },
-      {
-        "name": "Amy",
-        "role": "founder",
-        "team": null
-      },
-      {
-        "name": "Bernard",
-        "role": "founder",
-        "team": null
-      },
-      {
-        "name": "Amy",
-        "role": "founder",
-        "team": null
-      },
-      {
-        "name": "Stéphane",
-        "role": "founder",
-        "team": null
-      },
-      {
-        "name": "Joao",
-        "role": "founder",
-        "team": null
-      },
-      {
-        "name": "Anthony L",
-        "role": "founder",
-        "team": null
-      },
-      {
-        "name": "Welid",
-        "role": "founder",
-        "team": null
-      },
-      {
-        "name": "Frank",
-        "role": "founder",
-        "team": null
-      },
-      {
-        "name": "Pia",
-        "role": "founder",
-        "team": null
-      },
-      {
-        "name": "Michal",
-        "role": "founder",
-        "team": null
-      },
-      {
-        "name": "Paul",
-        "role": "founder",
-        "team": null
-      },
-      {
-        "name": "Pascal",
-        "role": "founder",
-        "team": null
-      },
-      {
-        "name": "Francois",
-        "role": "founder",
-        "team": null
-      },
-      {
-        "name": "Matthias",
-        "role": "founder",
-        "team": null
-      },
-      {
-        "name": "Mayank",
-        "role": "founder",
-        "team": null
-      },
-      {
-        "name": "Massinissa",
-        "role": "founder",
-        "team": null
-      },
-      {
-        "name": "Emmanuelle",
-        "role": "founder",
-        "team": null
-      }
-    ]
-  }
+  "people": [
+    {
+      "name": "Jean",
+      "role": "Founder"
+    },
+    {
+      "name": "Francescu",
+      "role": "Founder",
+      "team": null
+    },
+    {
+      "name": "Anthony",
+      "role": "Marketing",
+      "team": null
+    },
+    {
+      "name": "Pierre-Elie",
+      "role": "Android",
+      "team": null
+    },
+    {
+      "name": "Jérémie",
+      "role": "Head of Engineering",
+      "team": null
+    },
+    {
+      "name": "Sonasi",
+      "role": "iOS",
+      "team": null
+    },
+    {
+      "name": "Filippo",
+      "role": "Product",
+      "team": null
+    },
+    {
+      "name": "Anastasiia",
+      "role": "Design",
+      "team": null
+    },
+    {
+      "name": "Thomas",
+      "role": "iOS",
+      "team": null
+    },
+    {
+      "name": "Ludwig",
+      "role": "Product",
+      "team": null
+    },
+    {
+      "name": "Nerea",
+      "role": "Head of Business Operations",
+      "team": null
+    },
+    {
+      "name": "Satyan",
+      "role": "Android",
+      "team": null
+    },
+    {
+      "name": "Amy",
+      "role": "Workplace & Events Manager",
+      "team": null
+    },
+    {
+      "name": "Bernard",
+      "role": "Head of Growth",
+      "team": null
+    },
+    {
+      "name": "Stéphane",
+      "role": "Web",
+      "team": null
+    },
+    {
+      "name": "Joao",
+      "role": "Customer Support",
+      "team": null
+    },
+    {
+      "name": "Anthony L",
+      "role": "iOS",
+      "team": null
+    },
+    {
+      "name": "Welid",
+      "role": "Design",
+      "team": null
+    },
+    {
+      "name": "Frank",
+      "role": "iOS",
+      "team": null
+    },
+    {
+      "name": "Pia",
+      "role": "Social Media Manager",
+      "team": null
+    },
+    {
+      "name": "Michal",
+      "role": "Growth",
+      "team": null
+    },
+    {
+      "name": "Paul",
+      "role": "iOs",
+      "team": null
+    },
+    {
+      "name": "Pascal",
+      "role": "iOS",
+      "team": null
+    },
+    {
+      "name": "Francois",
+      "role": "iOS",
+      "team": null
+    },
+    {
+      "name": "Matthias",
+      "role": "Design",
+      "team": null
+    },
+    {
+      "name": "Mayank",
+      "role": "Product",
+      "team": null
+    },
+    {
+      "name": "Massinissa",
+      "role": "Web",
+      "team": null
+    },
+    {
+      "name": "Emmanuelle",
+      "role": "Chief of Staff",
+      "team": null
+    }
+  ]
+}
